@@ -1,0 +1,48 @@
+body{
+    background: url(../img/fondo.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+h1{    
+    text-align: center;
+    font-size: 600%;
+}
+
+header{
+    background: rgba(15, 15, 15, 0.8);   
+    border-radius: 51px 51px 51px 51px; 
+    color: white;   
+}
+
+section{   
+    font-size: 200%;
+    text-align: center;
+}
+
+#cadena{    
+    font-size: 100%;
+    margin-top: 1%;
+}
+
+#enviar{
+    font-size: 100%; 
+    margin: 1%;
+    border: #008CBA;;
+    background-color: #008CBA;  
+    color: #ffffff;
+    transition-duration: 0.4s;
+}
+
+#enviar:hover{     
+    border: rgb(3, 86, 114);;
+    background-color: rgb(8, 66, 85);  
+}
+
+#cont{    
+    height: 80%;
+    background: rgba(15, 15, 15, 0.8);
+    border-radius: 51px 51px 51px 51px;   
+}
+
+
